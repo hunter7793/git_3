@@ -1,1 +1,1 @@
-const variable = 'variable3';
+const variable = 'var';
