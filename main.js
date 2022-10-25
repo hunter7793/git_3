@@ -1,0 +1,1 @@
+const someRandomVariable = Math.random() * 100;
