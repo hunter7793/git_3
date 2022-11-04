@@ -4,3 +4,4 @@ const secondVariable = 12;
 window.global = {}
 window.global['f'] = 12
 window.global['a'] = 11
+window.global['b'] = 12
